@@ -1,0 +1,30 @@
+body {
+  background: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: #227093;
+  color: #ffffff;
+  padding: 2px 12px 12px;
+  width: fit-content;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+th, td {
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-width: 2px;
+}
+
+a {
+  color: lightblue;
+  font-size: 24px;
+  padding: 0 12px;
+}
